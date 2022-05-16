@@ -13,8 +13,7 @@
      margin: 10px;
  }
  .colomn{
-     float: left;
-     width: 50%;
+    display:flex
  }
  .colors{
      color: yellow;
