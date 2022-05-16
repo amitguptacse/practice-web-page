@@ -1,7 +1,12 @@
-.split { 
-    float:left;
+.container { 
+    display: flex ;
+ }
+ .split{
+    height:33.33%;
+    padding: 10px;
     width:33.33%;
-    height: 33.33%;
+
+
  }
 
  p{
@@ -15,4 +20,4 @@
      color: yellow;
      background-color: blue;
      margin: 10px;
- }
+ } 
